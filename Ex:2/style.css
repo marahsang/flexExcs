@@ -15,6 +15,7 @@
   color: tomato;
   background: white;
   padding: 4px 32px;
+  margin: 10px 0px;
 }
 
 ul {
@@ -31,4 +32,5 @@ a {
   padding: 8px;
   /* this removes the line under the links */
   text-decoration: none;
+  margin: 10px;
 }
