@@ -6,6 +6,7 @@
 .container {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 
 .logo {
@@ -19,6 +20,7 @@
 ul {
   /* this removes the dots on the list items*/
   list-style-type: none;
+  display: flex;
 }
 
 
