@@ -22,6 +22,7 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.2);
   display: flex;
   gap: 15px;
+  padding: 15px;
 }
 
 .icon {
@@ -73,4 +74,8 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.text {
+  width: 400px;
 }
