@@ -11,6 +11,11 @@ img {
   width: 600px;
 }
 
+.container {
+  display: flex;
+  flex-direction: column;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
