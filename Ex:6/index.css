@@ -19,6 +19,14 @@ img {
   height: 100%;
 }
 
+.content {
+  text-align: center;
+}
+
+.buttons {
+  text-align: center;
+}
+
 button {
   font-family: Roboto, sans-serif;
   border: none;
