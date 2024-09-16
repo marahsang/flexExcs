@@ -20,7 +20,9 @@ body {
 }
 
 .cards {
-
+  display: flex;
+  flex-wrap: wrap;
+  height: 100%;
 }
 
 .footer {
@@ -39,4 +41,5 @@ body {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
+  flex: 1 1 300px;
 }
