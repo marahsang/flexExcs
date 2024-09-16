@@ -19,10 +19,10 @@ body {
   display: flex;
 }
 
-.boxes {
+.cards {
   display: flex;
   flex-wrap: wrap;
-  height: 100%;
+  
 }
 
 .footer {
@@ -46,8 +46,8 @@ body {
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
   flex: 1 1 200px;
-  padding: 32px;
-  margin: 12px;
+  /* padding: 32px;
+  margin: 12px;*/
 }
 
 ul {
