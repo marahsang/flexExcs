@@ -19,7 +19,7 @@ body {
   display: flex;
 }
 
-.cards {
+.boxes {
   display: flex;
   flex-wrap: wrap;
   height: 100%;
