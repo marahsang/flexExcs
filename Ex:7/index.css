@@ -40,6 +40,7 @@ body {
   box-sizing: border-box;
   padding: 16px;
   width: 100%;
+  /*flex-shrink: 0;*/
 }
 
 .card {
